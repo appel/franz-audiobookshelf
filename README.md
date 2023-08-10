@@ -1,2 +1,2 @@
-# franz-roundcube
-A recipe to add Roundcube support to Franz.
+# franz-audiobookshelf
+A recipe to add Audiobookshelf support to Franz.
